@@ -4,7 +4,7 @@
 
 use Cereals;
 
--- 1. Add index name fast on name 
+-- 1. Add index name fast on name. 
 create index fast on cereals_table(name);
 select max(length(name)) from cereals_table;
 alter table cereals_table modify name varchar(40);
