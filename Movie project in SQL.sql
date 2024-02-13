@@ -2,6 +2,7 @@ Create Database Movie;
 use Movie;
 
 /*   Query
+
 i.	Write a SQL query to find when the movie 'American Beauty' released. Return movie release year.
 ii.	Write a SQL query to find those movies, which were released before 1998. Return movie title.
 iii. Write a query where it should contain all the data of the movies which were released after 1995 and their movie duration was greater than 120.
