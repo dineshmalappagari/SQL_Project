@@ -1,6 +1,6 @@
 # Exercise 
 # Database: cereals 
-# Queries 
+# Queries
 
 use Cereals;
 
