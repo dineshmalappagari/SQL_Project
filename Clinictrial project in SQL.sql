@@ -1,4 +1,4 @@
-#Database: clinictrial
+#Database: clinictrial 
 # Queries
 use clinictrial;
 
