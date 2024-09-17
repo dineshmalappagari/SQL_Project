@@ -2,6 +2,7 @@
 # Queries
 use clinictrial;
 
+
 -- 1. Add index name fast on Name
 
 alter table clinictrial modify Name varchar(30) Primary Key;
