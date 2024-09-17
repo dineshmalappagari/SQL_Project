@@ -1,6 +1,8 @@
 # Exercise
 # Database: insurance
 
+  
+
 drop database if exists Insurance_db;
 create database Insurance_db;
 use Insurance_db;
